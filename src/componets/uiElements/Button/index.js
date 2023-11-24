@@ -20,8 +20,6 @@ export default function Button(props) {
             return <Fragment>{children}</Fragment>
         }
     }
-    return  (
-        <sty
-    )
+    return  
 
 }

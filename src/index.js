@@ -11,6 +11,6 @@ root.render(
         <Router />
         <GlobalStyle/>
     </Fragment>
-    // styled
+
 );
 
