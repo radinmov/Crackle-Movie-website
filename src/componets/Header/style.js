@@ -14,7 +14,11 @@ import { pallete } from "../../theme";
    img {
      width: 109px;
      height: auto;
-   }
+    }
+    .container
+    {
+     displey:flex;
+    }
  }
  .menu {
    ul {
