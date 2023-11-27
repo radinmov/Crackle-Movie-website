@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { pallete } from "../../theme";
 
  export const Style = styled.div `
- background: rgba(0, 0, 0, 0.5);
+ background:#1a1919;
  padding: 10px 0;
  position: fixed;
  top: 0;
