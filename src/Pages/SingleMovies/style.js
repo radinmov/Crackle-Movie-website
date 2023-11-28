@@ -5,4 +5,10 @@ export const Style = styled.div`
 {
     color:red;
 }
+.txt
+
+{
+    margin-top:25px;    
+    margin-left:20px;
+}
 `;

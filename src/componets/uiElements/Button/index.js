@@ -7,6 +7,7 @@ export default function Button(props) {
       icon,
       size = "medium",
       type = "default",
+
     } = props;
     function renderFarm() {
       if (icon) {
