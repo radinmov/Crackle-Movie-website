@@ -68,4 +68,8 @@ a {
 .gap-40 {
     gap: 40px;
 }
+.content
+{
+    padding:106px 0 50px 0;
+}
 `;
