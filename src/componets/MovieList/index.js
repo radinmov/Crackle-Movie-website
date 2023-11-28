@@ -43,7 +43,7 @@ export default function MovieList(props) {
             {loading ? (
                 <Loading/>
             ): (
-                <ul className="flex flex-wrap gap-10">{renderFarm()}</ul>
+                <ul className="flex flex-wrap gap-20">{renderFarm()}</ul>
             )}
         </div>
     </Style>

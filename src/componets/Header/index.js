@@ -33,7 +33,7 @@ export default function Header() {
           </div>
           <div className="right flex gap-10 align-center">
             <Button icon="fa-solid fa-search">search</Button>
-            <Button className="bold" type="primary">
+            <Button  className="bold" type="primary">
               create account
             </Button>
             <Button className="bold" type="dark">
